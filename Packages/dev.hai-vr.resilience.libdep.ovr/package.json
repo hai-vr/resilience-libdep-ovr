@@ -1,0 +1,15 @@
+{
+  "name": "dev.hai-vr.resilience.libdep.ovr",
+  "displayName": "Haï ~ Resilience Libdep - OVR",
+  "version": "1.0.0",
+  "unity": "2019.4",
+  "description": "Resilience Libdep - OVR",
+  "vrchatVersion" : "2022.1.1",
+  "author" : {
+    "name" : "Haï~"
+  },
+  "vpmDependencies": {
+    "dev.hai-vr.resilience.toolkit" : "1.0.x"
+  },
+  "url" : "https://docs.hai-vr.dev/docs/resilience/libdep/ovr"
+}
